@@ -1,4 +1,4 @@
-module geekpaul.com/rabbitmq/hello-world
+module geekpaul.com/rabbitmq/pub-sub
 
 go 1.22.4
 

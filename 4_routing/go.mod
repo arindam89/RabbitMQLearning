@@ -1,4 +1,4 @@
-module geekpaul.com/rabbitmq/work-queue
+module geekpaul.com/rabbitmq/routing
 
 go 1.22.4
 
